@@ -14,3 +14,19 @@
 	width: 85%;
 	margin: 0 0 0 auto;
 }
+
+.tags{
+	font-weight: 300;
+font-size: 0.8rem;
+color: #fff;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+padding: 8px;
+line-height: 27px;
+vertical-align: top;
+}
+
+.btn{
+	text-transform: none;
+}
